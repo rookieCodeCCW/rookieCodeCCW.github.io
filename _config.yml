@@ -18,31 +18,31 @@ excerpt_separator: "[-----]"
 
 # mode: dev
 mode: product
-url: https://unifreak.github.io/
+url: https://rookiecodeccw.github.io/
 devurl: http://localhost:4000/
-name: UniFreak
-title: UniFreak | Another yet unique freak is showing a freakshow
-description: "Fanghao's personal weblog, on coding or such stuff"
+name: sodoi
+title: sodoi | Another yet unique freak is showing a freakshow
+description: "wangcongcong's personal weblog, on coding or such stuff"
 
 my:
     displayName: SoDoI
-    realName: FangHao
+    realName: wangcongcong
     realName_cn: 王聪聪
     jobTitle: "PHP Coder"
     contact:
         qq: 744910240
-        email: fanghao90s@gmail.com
-        github: http://www.github.com/UniFreak
-        qzone: http://744910240.qzone.qq.com
-        pinterest: https://www.pinterest.com/miblah/
-        tel: 15532915861
+        email: congcongwang@139.com
+        github: https://github.com/rookieCodeCCW
+        qzone: null
+        pinterest: null
+        tel: 17348877991
         address:
             country: China
-            state: Beijing
-            city: Beijing
-            distribute: ChaoYang
+            state: zhejiang
+            city: hangzhou
+            distribute: null
             postcode: 000000
-            cell: "AnHuiLi"
+            cell: "sodoi"
     skills:
         frontend: ["HTML | Markdown", "CSS | SASS", "JS | jQuery", "Bootstrap"]
         backend: ["PHP", "MySQL", "Redis", "Regex", "Laravel", "OSC"]
