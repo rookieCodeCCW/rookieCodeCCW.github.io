@@ -2,7 +2,7 @@
 title: "我的第一篇测试博客"
 layout: post
 category: note
-tags: [http]
+tags: [mac, osx, docker, php]
 excerpt: "花了两天时间建立自己的github免费个人博客，现在主页显示还是有些问题，先写第一篇博客记录搭建时参考的博客"
 ---
 
