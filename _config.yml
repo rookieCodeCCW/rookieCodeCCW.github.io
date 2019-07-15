@@ -44,9 +44,9 @@ my:
             postcode: 000000
             cell: "sodoi"
     skills:
-        frontend: ["HTML | Markdown", "CSS | SASS", "JS | jQuery", "Bootstrap"]
-        backend: ["PHP", "MySQL", "Redis", "Regex", "Laravel", "OSC"]
-        tools: ["Sublime Text", "Git | Github", "Linux", "Jekyll | Liquid"]
+        frontend: ["HTML | Markdown", "CSS | anglurJs", "JS | jQuery", "Bootstrap"]
+        backend: ["java", "MySQL", "Redis", "spring", "etcd", "c#"]
+        tools: ["Sublime Text", "Git | Github", "Linux", "Jekyll | postman"]
 
 collections:
     qqGroupGuide:
