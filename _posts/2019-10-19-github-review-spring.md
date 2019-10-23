@@ -1,9 +1,9 @@
 ---
-title: "面试复习spring(一)"
+title: "复习spring(一)"
 layout: post
 category: note
 tags: [review]
-excerpt: "面试问题总结"
+excerpt: "spring问题总结"
 ---
 # spring是什么？
  * 轻量级的IOC和框架 基础框架。常见的配置方式有三种 xml 配置文件 注解 基于java的配置。
